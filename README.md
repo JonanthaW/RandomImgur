@@ -19,6 +19,8 @@ Gere aleatóriamente fotos hosteadas no IMGUR
 
 ### :computer: Baixando o conteúdo:
 
+<p>Feel free to download this repository and use it however you like. </p>
+
 ```bash
-$ git clone https://github.com/JonanthaW/Arduino-Projects.git
+$ git clone https://github.com/JonanthaW/RandomImgur.git
 ```
