@@ -18,6 +18,10 @@ O script busca por vários tipos de arquivos suportados pelo IMGUR (png, jpg, jp
   <img src="https://github.com/JonanthaW/RandomImgur/blob/main/assets/example1.jpg">
 </p>
 
+```
+A página irá buscar por imagens infinitamente, para parar o script, simplesmente recarregue a página.
+```
+
 ### :computer: Baixando o conteúdo:
 
 <p>Baixe este repositório e use-o como quiser. </p>
