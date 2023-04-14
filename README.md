@@ -4,7 +4,8 @@
 
 ## :rocket: Sobre a página:
 
-Gere aleatóriamente fotos hosteadas no IMGUR
+Gere aleatóriamente fotos hosteadas no IMGUR. O script é útil para usuários que desejam uma maneira rápida e fácil de navegar por uma variedade de imagens no IMGUR sem ter que procurá-las manualmente.
+O script busca por vários tipos de arquivos suportados pelo IMGUR (png, jpg, jpeg, gif, jpeg, svg, webp, ico, TIFF, APNG).
 
 #### :wrench: Techs utilizadas:
 * _HTML_
