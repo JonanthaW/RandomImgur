@@ -19,7 +19,7 @@ O script busca por vários tipos de arquivos suportados pelo IMGUR (png, jpg, jp
 </p>
 
 ```
-A página irá buscar por imagens infinitamente, para parar o script, simplesmente recarregue a página.
+A página irá buscar por imagens infinitamente, para parar o script simplesmente recarregue a página.
 ```
 
 ### :computer: Baixando o conteúdo:
